@@ -1,0 +1,23 @@
+{
+  "name": "lottery-system",
+  "homepage": "https://github.com/Rain1368189893/lottery-system",
+  "authors": [
+    "Rain1368189893 <1368189893@qq.com>"
+  ],
+  "description": "抽签系统 nodeJs Bootstrap mongoDB",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
